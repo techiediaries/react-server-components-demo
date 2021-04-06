@@ -1,6 +1,7 @@
 # React Server Components Demo 
 
-This is a fork of the official [React Server Components Demo](https://github.com/reactjs/server-components-demo). You can learn more about how Prisma and React Server Components fit together in this [video](https://youtu.be/ATBdP-Yfaec?t=1482).
+This is a fork of the official [React Server Components Demo](https://github.com/reactjs/server-components-demo).
+
 
 ## Usage
 
